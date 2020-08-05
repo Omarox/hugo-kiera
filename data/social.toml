@@ -67,6 +67,12 @@ title = "StackOverflow"
 icon = "fab fa-stack-overflow"
 
 [[social_icons]]
+id = "codereview"
+url = "%s"
+title = "CodeReview"
+icon = "fab fa-stack-exchange"
+
+[[social_icons]]
 id = "snapchat"
 url = "https://www.snapchat.com/add/%s"
 title = "Snapchat"
